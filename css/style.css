@@ -163,6 +163,11 @@ ul {
   display: none;
 }
 
+.project-image {
+  width: 300px;
+  border: 1px solid #ebebeb;
+}
+
 img {
   padding: 10px;
 }
